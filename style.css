@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+
+  body{
+    background-color: rgb(149, 247, 225);
+  }
+   
+  .adminData{
+   background-color: rgb(83, 62, 218);
+   position: absolute;
+   top: 200px;
+   left: 200px;
+   right: 950px;
+   bottom: 300px;
+   padding-left: 100px;
+   padding-right: 100px;
+   border-radius: 10px; 
+   color: rgba(240, 248, 255, 0.986);
+  }
+  .studentData{
+   background-color: rgb(83, 62, 218);
+   position: absolute;
+   top: 200px;
+   left: 900px;
+   right: 250px;
+   bottom: 300px;
+   padding-left: 100px;
+   padding-right: 100px;
+   border-radius: 10px; 
+   color: rgba(240, 248, 255, 0.986);
+  }
+  .btn {
+     border-radius: 10px ;
+     background-color:rgba(244, 247, 248, 0.979);
+     padding: 5px 8px;
+     font-size: 16px;
+     cursor: pointer;
+     display: inline-block;
+}
+  .btn:hover {background: rgba(238, 238, 238, 0.76);}
+
+  h2 {
+      font-family:cursive,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .header {
+      padding: 10px;
+      padding-left: 50px;
+      background: #010e0b;
+      font-size: 20px;
+  }
+  a{
+      color:rgba(245, 245, 245, 0.815);
+      padding-right: 10px;
+      text-decoration: none;
+  }
+  .header.a.header.a.logout {
+      color:rgba(245, 245, 245, 0.815);
+      padding-inline-end: 10px;
+      text-decoration: none;
+  }
+  .mes{
+  color:rgb(240, 12, 12);
+   }
