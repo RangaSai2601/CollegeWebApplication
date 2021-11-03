@@ -4,8 +4,7 @@ Heloo Every One this is my first project using Java and Spring Framework
 **Used Technolgies 
 Frontend:- Jsp servlets, Html5 , Css;
 Backend:- Spring JPA, Spring Boot, Spring MVC
-**
-**@One to many relationship is used between Admin and Student**
+@One to many relationship is used between Admin and Student**
 
 Here is the clear explanation of my project in a detail way
 
