@@ -1,7 +1,7 @@
 # CollegeWebApplication
 Heloo Every One this is my first project using Java and Spring Framework
 
-**Used Technolgies 
+**Used Technolgies <br>
 Frontend:- Jsp servlets, Html5 , Css; <br>
 Backend:- Spring JPA, Spring Boot, Spring MVC <br>
 @One to many relationship is used between Admin and Student**
